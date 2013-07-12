@@ -12,7 +12,7 @@ __DATA__
 % title 'たいとる';
 <div class="container">
   <div class="hero-unit">
-    <h1>はろーわーるど！</h1>
+    <h1>ハローワールド！</h1>
     <p>こんにちは！</p>
     <p><%= scalar localtime %></p>
   </div>
